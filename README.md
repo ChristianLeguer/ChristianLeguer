@@ -28,9 +28,9 @@
 ---
 
 ## 📂 Proyectos Destacados
-1. **[Estudio de Embudo de Eventos y Pruebas A/B](https://github.com/tu-usuario/proyecto-1)**: Proyecto educativo: Conocer el comportamiento de los usuarios en una aplicación de venta de alimentos.
-2. **[Pruebas de Hipótesis y Análisis de Resultados](https://github.com/tu-usuario/proyecto-2)**: Proyecto educativo: Estudio de hipótesis del departamento de marketing usando pruebas A/B.
-3. **[Estudio de Mercado sobre Restaurantes en Los Ángeles](https://github.com/tu-usuario/proyecto-3)**: Proyecto educativo: Análisis de una base de datos con información sobre establecimientos de venta de comida en Los Ángeles.
+1. **[Estudio de Embudo de Eventos y Pruebas A/B](https://github.com/ChristianLeguer/Estudio_de_eventos)**: Proyecto educativo: Conocer el comportamiento de los usuarios en una aplicación de venta de alimentos.
+2. **[Pruebas de Hipótesis y Análisis de Resultados](https://github.com/ChristianLeguer/Pruebas_A_B_Departamento_Marketing)**: Proyecto educativo: Estudio de hipótesis del departamento de marketing usando pruebas A/B.
+3. **[Estudio de Mercado sobre Restaurantes en Los Ángeles](https://github.com/ChristianLeguer/Establecimientos_los_angeles)**: Proyecto educativo: Análisis de una base de datos con información sobre establecimientos de venta de comida en Los Ángeles.
 
 ---
 
