@@ -1,9 +1,11 @@
 <!-- Título principal -->
-# ¡Hola! 👋 Soy [Christian Leguer]  
+# <span style="color:#FF5733">¡Hola! 👋 Soy Christian Leguer</span>
 ### Analista de Datos Jr. 
 
 <!-- Breve descripción personal -->
+<div style="background-color:#E6F2FF; padding:10px; border-radius:5px;">
 Soy un analista de datos Jr. con experiencia en Python, SQL, análisis estadístico y visualización de datos. Me apasiona transformar datos en insights accionables para la toma de decisiones estratégicas.
+</div>
 
 <!-- Iconos con links a redes sociales (Puedes cambiar los links por los tuyos) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christian-leguer-728baa194/)
@@ -12,7 +14,8 @@ Soy un analista de datos Jr. con experiencia en Python, SQL, análisis estadíst
 
 ---
 
-## 🚀 Herramientas y Tecnologías
+## <span style="color:#2980B9">🚀 Herramientas y Tecnologías</span>
+<div style="background-color:#FDEBD0; padding:10px; border-radius:5px;">
 **Lenguajes de Programación**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
@@ -24,10 +27,10 @@ Soy un analista de datos Jr. con experiencia en Python, SQL, análisis estadíst
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
+</div>
 ---
 
-## 📂 Proyectos Destacados
+## <span style="color:#F39C12">📂 Proyectos Destacados</span>
 1. **[Estudio de Embudo de Eventos y Pruebas A/B](https://github.com/tu-usuario/proyecto-1)**: Proyecto educativo: Conocer el comportamiento de los usuarios en una aplicación de venta de alimentos.
 2. **[Pruebas de Hipótesis y Análisis de Resultados](https://github.com/tu-usuario/proyecto-2)**: Proyecto educativo: Estudio de hipótesis del departamento de marketing usando pruebas A/B.
 3. **[Estudio de Mercado sobre Restaurantes en Los Ángeles](https://github.com/tu-usuario/proyecto-3)**: Proyecto educativo: Análisis de una base de datos con información sobre establecimientos de venta de comida en Los Ángeles.
@@ -35,4 +38,6 @@ Soy un analista de datos Jr. con experiencia en Python, SQL, análisis estadíst
 ---
 
 <!-- Pie de página -->
+<div style="background-color:#F5B7B1; padding:10px; border-radius:5px;">
 ¡Gracias por visitar mi perfil! 🚀 Me encantaría conectar contigo en mis redes sociales o colaborar en proyectos interesantes.
+</div>
