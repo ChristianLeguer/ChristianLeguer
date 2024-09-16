@@ -1,6 +1,6 @@
 <!-- Título principal -->
-# ![Bienvenido](https://img.shields.io/badge/¡Hola!_%F0%9F%91%8B_Soy_Christian_Leguer-FF5733?style=for-the-badge)
-### Analista de Datos Jr.
+# <span style="color:#FF5733">¡Hola! 👋 Soy Christian Leguer</span>
+### Analista de Datos Jr. 
 
 <!-- Breve descripción personal -->
 ![Descripción](https://img.shields.io/badge/Analista_de_datos_Jr.-Con_experiencia_en_Python,_SQL_y_análisis_estadístico-E6F2FF?style=flat-square)
