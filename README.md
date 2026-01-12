@@ -67,7 +67,7 @@ My background in education and NGOs strengthens my ability to explain complex da
 ![Descripción](https://img.shields.io/badge/Apasionado_por_el_análisis_de_datos,_creando_insights_valiosos_para_tomar_decisiones-E6F2FF?style=flat-square)
 
 <!-- Iconos con links a redes sociales -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christian-leguer-728baa194/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christian-leguer)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repos-black?style=flat-square&logo=github)](https://github.com/ChristianLeguer)  
 [![Correo](https://img.shields.io/badge/Email-Contacto-red?style=flat-square&logo=gmail)](mailto:chris.leguer@gmail.com)
 
@@ -90,7 +90,7 @@ My background in education and NGOs strengthens my ability to explain complex da
 
 ---
 
-## 📂 **Proyectos Destacados**
+## 📂 **Proyectos Destacados** (Español)
 1. **[Estudio de Embudo de Eventos y Pruebas A/B](https://github.com/ChristianLeguer/Estudio_de_eventos)**  
    - 🎯 **Objetivo**: Analizar el comportamiento de usuarios en una app de venta de alimentos y optimizar su experiencia.  
    - 🛠 **Herramientas**: Python, Pandas, Seaborn.  
