@@ -1,4 +1,65 @@
 <!-- Título principal -->
+# Hi! 👋 I'm Christian Leguer  
+### 📊 Junior Data Analyst
+
+Data Analyst with a background in **education and NGO projects**, currently transitioning into the tech and data field.  
+I focus on **exploratory data analysis, user behavior analysis, and A/B testing**, turning data into actionable insights that support business and product decisions.
+
+I’m actively building my portfolio and seeking **Junior Data Analyst opportunities in Europe**.
+
+---
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christian-leguer)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=flat-square&logo=github)](https://github.com/ChristianLeguer)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:chris.leguer@gmail.com)
+
+---
+
+## 🚀 Tools & Technologies
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
+
+### Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### Additional Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+## 📂 Featured Project (English)
+
+1.**[Ireland Trade Analysis ](https://github.com/ChristianLeguer/ireland_trade_analysis)**
+
+- **Objective**: Analyze international trade metrics over time to understand trends in exports, imports, and trade balance using exploratory data analysis and visualization techniques
+- **Key tasks**:
+  - Data understanding and validation (structure, units, duplicates, missing values)
+  - Data transformation for analytical clarity (thousands to billions)
+  - Aggregation and reshaping of data using groupby and pivot
+  - Time-series analysis of trade metrics
+  - Comparative analysis between exports, imports, and trade balance
+
+Data visualization to highlight long-term trends and differences 
+- **Tools**: Python, Pandas, Matplotlib. 
+- **Outcome**: Clear and interpretable insights into the evolution of trade metrics over time, providing a solid analytical foundation for economic interpretation and data-driven discussion.
+
+---
+
+## 🎯 Professional Focus
+I enjoy working with real-world datasets, identifying patterns in user behavior, and communicating insights in a clear and structured way.  
+My background in education and NGOs strengthens my ability to explain complex data clearly and work with purpose-driven projects.
+
+---
+
+# 🇪🇸 Versión en Español
+
+
 # <span style="color:#FF5733">¡Hola! 👋 Soy Christian Leguer</span>  
 ### 📊 **Analista de Datos Jr.**
 
